@@ -1,5 +1,5 @@
 # Malaysian Credit Card Recommender System
-testing
+
 A web application that helps Malaysian users optimize their credit card usage by tracking expenses and recommending the best credit card combinations for maximum cashback and points.
 
 ## Features
